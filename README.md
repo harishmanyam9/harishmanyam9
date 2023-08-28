@@ -11,6 +11,10 @@
 
 I'm an __MPS in Data Science__ student at __University of Maryland Baltimore County__. I have 2 years of experience building and deploying __machine learning__ and __deep learning__ and __Data Science__ systems and __Cloud Architect__. I have been awarded as __Special Young Achiever__ for my Research and Innovation in 2021 from GITAM Deemed to be University. 
 
+My passion is to use data to create a positive social impact and solve real-world problems. As a data engineer at the Maryland Department of Health, I manage and process vast amounts of health data using big data analytics and AWS services. I have successfully delivered multiple projects that enabled data-driven decision-making and improved health outcomes for the state.
+
+I also have over three years of experience as a founder and CEO of my own startup, where I developed innovative solutions for various domains using data science and machine learning. I have been recognized as a finalist of T-Hub Covid-19 innovation challenge and a domain warrior of Microsoft HackonAzure challenge. I am currently pursuing a master's degree in data science at University of Maryland Baltimore County, where I am learning advanced skills and techniques to enhance my career as a data professional. I have a strong background in electrical, electronics and communications engineering, and I have published a paper in an international journal on a novel project that aims to facilitate communication for people with disabilities. I have also earned multiple certifications and honors in data science, IoT, digital circuits, and hackathons.
+
 Later, I began to work on projects ranging from __Health-Care__,__Agricultural__, __Retail & E-Commerce__, __Manufacturing__ and __Automobile__ industries.
 
 Previously, I'm worked on the following Research Projects at National Institute of Technology, Warangal:
